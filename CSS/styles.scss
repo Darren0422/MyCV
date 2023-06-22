@@ -1,0 +1,242 @@
+//NAVBAR
+.navbar-container {
+    background-color: #1916c6;
+    padding: 10px;
+}
+
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navbar-name {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS', cursive;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-pages {
+list-style: none;
+display: flex;
+}
+
+.navbar-pages li {
+margin-right: 10px;
+}
+
+.navbar-pages li a {
+font-size: 15px;
+color: #ffffff;
+text-decoration: none;
+}
+
+.navbar-pages li a:hover {
+color: #ffffff;
+}
+
+
+
+//Index styling
+.page-container {
+    padding: 10px;
+}
+
+.index-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.portrait-container {
+margin-right: 40px;
+margin-left: 40px;
+padding: 20px;
+
+}
+
+.portrait-container img {
+width: 400px;
+height: auto;
+}
+
+.bio-container {
+flex: 1;
+}
+
+.bio-content {
+text-align: left;
+font-size: 20px;
+margin-right: 80px;
+}
+
+.bio-container p {
+margin-bottom: 10px;
+}
+
+//Footer
+.copyright {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px; 
+}
+
+.copyright-text {
+  font-size: 10px; 
+}
+
+
+
+
+//Education
+.education-container {
+    text-align: center;
+    
+    .education-table {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 100%;
+      
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        
+        td {
+          padding: 10px;
+          border: 1px solid #ccc;
+        }
+        
+        tr:first-child {
+          font-weight: bold;
+        }
+      }
+    }
+}
+
+.skills-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.skills-container h1 {
+    text-align: center;
+}
+
+.skills-list {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+.skills-list ul {
+    padding: 0;
+    margin: 0;
+}
+  
+.skills-list ul li {
+    list-style-type: disc;
+    margin-bottom: 10px;
+}
+  
+
+//Experience
+.experience-container h1 {
+    text-align: center;
+}
+
+
+.experience1-container,
+.experience2-container,
+.experience3-container,
+.experience4-container {
+  margin-bottom: 20px;
+}
+
+.experience1-content,
+.experience2-content,
+.experience3-content,
+.experience4-content {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.experience1-content h2,
+.experience2-content h2,
+.experience3-content h2,
+.experience4-content h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+
+.experience1-content h3,
+.experience2-content h3,
+.experience3-content h3,
+.experience4-content h3 {
+  margin: 5px 0;
+}
+
+.experience1-list,
+.experience2-list,
+.experience3-list,
+.experience4-list {
+  margin-top: 10px;
+}
+
+.experience1-list ul,
+.experience2-list ul,
+.experience3-list ul,
+.experience4-list ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.experience1-list ul li,
+.experience2-list ul li,
+.experience3-list ul li,
+.experience4-list ul li {
+  list-style-type: disc;
+}
+
+//Contact
+.contact-title {
+    text-align: center;
+  }
+  
+.contact-title h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+  
+.contact-content {
+    margin-top: 20px;
+    text-align: center;
+}
+  
+.contact-content h2 {
+    font-size: 40px;
+    color: black;
+    margin-bottom: 10px;
+}
+  
+.contact-socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+.social-icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    margin-top: 20px;
+}
+  
