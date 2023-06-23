@@ -9,7 +9,7 @@ This repository is important asit shows my understanding of HTML, CSS and SCSS. 
 
 To install this project locally, open the repository in your web browser: [MyCV](https://github.com/Darren0422/MyCV).
 . On the repository page, click on the green "Code" button located near the top-right of the page. From the dropdown menu, select "Download ZIP". This will start the download of the repository as a ZIP file to your computer. Save it on your local storage device. 
-<img width="1440" alt="Screenshot 2023-06-23 at 10 39 25" src="https://github.com/Darren0422/MyCV/assets/134398985/bdd4995a-a877-4f92-8992-71462d8e617a">
+<img width="1440" alt="Screenshot 2023-06-23 at 10 39 25" src="https://github.com/Darren0422/MyCV/assets/134398985/d232978a-f9f8-4c91-a97c-f8a2590e0717">
 
 
 ##  Usage
