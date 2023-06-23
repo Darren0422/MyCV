@@ -3,7 +3,7 @@
 Capstone Project is a static website for my CV. It provides a short bio, my work experience, qualifications annd how to contact me.
 
 ## Importance 
-This repository is important asit shows my understanding of HTML, CSS and SCSS. It also provides insights to my understanding and comprehension of JavaScript fundamentals.
+This repository is important as it shows my understanding of HTML, CSS and SCSS. It also provides an interactable website for displaying my work experience, qualifications and how to contact me. Additionally it shows more of my creative side and gives more information about me.
 
 ## Installation
 
